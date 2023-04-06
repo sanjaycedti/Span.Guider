@@ -1,6 +1,5 @@
 # Span.Guider
 
-* Summary *
 
 BenchmarkDotNet=v0.13.5, OS=macOS Ventura 13.1 (22C65) [Darwin 22.2.0]
 Apple M1 Pro, 1 CPU, 8 logical and 8 physical cores
